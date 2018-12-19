@@ -1,6 +1,6 @@
 # Socket-Server
 
-Reconstruir módulos de Node
+Instalar módulos de Node
 ```
 npm install
 ```
